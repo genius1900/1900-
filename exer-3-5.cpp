@@ -6,6 +6,6 @@ void main()
 	cin>>a>>b>>c;
 	s=(a+b+c)/2;
 	x=sqrt(s*(s-a)*(s-b)*(s-c));
-	cout<<"Ãæ»ıx="<<x<<endl;
+	cout<<"ÃƒÃ¦Â»Ã½x="<<x<<endl;
 }
 
