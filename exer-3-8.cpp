@@ -8,5 +8,5 @@ void main()
 	if(a%b==0)
 		cout<<a<<"/"<<b<<"="<<c<<endl;
 	else
-		cout<<a<<"/"<<b<<"="<<c<<endl<<"ÓàÊýÊÇ"<<d<<endl;
+		cout<<a<<"/"<<b<<"="<<c<<endl<<"Ã“Ã ÃŠÃ½ÃŠÃ‡"<<d<<endl;
 }
