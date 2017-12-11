@@ -9,7 +9,7 @@ void s(int *p,int *q)
 void main()
 {
 	int a[10],i;
-	cout<<"ÇëÊäÈëÊ®¸öÕûÊý:";
+	cout<<"è¯·è¾“å…¥åä¸ªæ•´æ•°:";
 	for(i=0;i<10;i++)
 		cin>>a[i];
 	int t,b[10];
@@ -20,7 +20,7 @@ void main()
 		q=&b[t];
 		s(p,q);
 	}
-	cout<<"·´ÐòÊä³öÎª:";
+	cout<<"ååºè¾“å‡ºä¸º:";
 	for(i=0;i<10;i++)
 		cout<<b[i]<<" ";
 }
